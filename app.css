@@ -1,0 +1,177 @@
+form input[type=submit]#AVANCER {^M
+        color : #fff;^M
+        padding:40px 0px 0px 0px;^M
+        margin:0px 0px 5px 25%;^M
+        border : none;^M
+        width : 16%;^M
+        height: 16%;^M
+        background:transparent url("images/avancer.jpg") no-repeat top center;^M
+}^M
+^M
+form input[type=submit]#RECULER {^M
+        color : #fff;^M
+        padding:40px 0px 0px 0px;^M
+        margin:0px 0px 5px 25%;^M
+        border : none;^M
+        width : 16%;^M
+        height: 16%;^M
+        background:transparent url("images/reculer.jpg") no-repeat bottom center;^M
+}^M
+^M
+form input[type=submit]#TOURNER-DROITE-AV {^M
+        color : #fff;^M
+        padding:40px 0px 0px 0px;^M
+        margin:0px 0px 5px 3px;^M
+        float: right;^M
+        border : none;^M
+        width : 16%;^M
+        height: 16%;^M
+        background:transparent url("images/avant-droite.jpg") no-repeat top right;^M
+}^M
+^M
+form input[type=submit]#TOURNER-GAUCHE-AV {^M
+        color : #fff;^M
+        padding:40px 0px 0px 0px;^M
+        margin:0px 0px 5px 3px;^M
+        float: left;^M
+        border : none;^M
+        width : 16%;^M
+        height: 16%;^M
+        background:transparent url("images/avant-gauche.jpg") no-repeat top left;^M
+}^M
+^M
+form input[type=submit]#TOURNER-GAUCHE-AR {^M
+        color : #fff;^M
+        padding:40px 0px 0px 0px;^M
+        margin:0px 0px 5px 3px;^M
+        float: left;^M
+        border : none;^M
+        width : 16%;^M
+        height: 16%;^M
+        background:transparent url("images/arriere-gauche.jpg") no-repeat bottom left;^M
+}^M
+^M
+form input[type=submit]#TOURNER-DROITE-AR {^M
+        color : #fff;^M
+        padding:40px 0px 0px 0px;^M
+        margin:0px 0px 5px 3px;^M
+        float: right;^M
+        border : none;^M
+        width : 16%;^M
+        height: 16%;^M
+        background:transparent url("images/arriere-droite.jpg") no-repeat bottom right;^M
+}^M
+^M
+form input[type=submit]#ABAISSER-BRAS {^M
+        color : #000;^M
+        padding:40px 20px 0px 0px;^M
+        margin:80px 0px 0px 8%;^M
+        ^M
+        border : none;^M
+        width : 12%;^M
+        height: 14%;^M
+        background:transparent url("images/bras-abaisser.jpg") no-repeat ;^M
+}^M
+^M
+form input[type=submit]#REMONTER-BRAS {^M
+        color : #000;^M
+        padding:40px 20px 0px 0px;^M
+        margin:0px 0px 0px 20%;^M
+        ^M
+        border : none;^M
+        width : 12%;^M
+        height: 14%;^M
+        background:transparent url("images/bras-remonter.jpg") no-repeat;^M
+}^M
+^M
+form input[type=submit]#BRAS-GAUCHE {^M
+        color : #000;^M
+        padding:40px 20px 0px 0px;^M
+        margin:0px 0px 0px 0px;^M
+        float: left;^M
+        border : none;^M
+        width : 12%;^M
+        height: 14%;^M
+        background:transparent url("images/bras-to-gauche.jpg") no-repeat;^M
+}^M
+^M
+form input[type=submit]#BRAS-DROIT {^M
+        color : #000;^M
+        padding:40px 20px 0px 0px;^M
+        margin:0px 50% 0px 0px;^M
+        float: right;^M
+        border : none;^M
+        width : 12%;^M
+        height: 14%;^M
+        background:transparent url("images/bras-to-droite.jpg") no-repeat;^M
+}^M
+^M
+form input[type=submit]#PINCE-ON {^M
+        color : #000;^M
+        padding:40px 20px 0px 0px;^M
+        margin:-230px 20% 0px 0px;^M
+        float: right;^M
+        border : none;^M
+        width : 12%;^M
+        height: 14%;^M
+        background:transparent url("images/pince-ouvrir.png") no-repeat;^M
+}^M
+^M
+^M
+form input[type=submit]#PINCE-OFF {^M
+        color : #000;^M
+        padding:40px 20px 0px 0px;^M
+        margin: -100px 20% 0px 0px;^M
+        float: right;^M
+        border : none;^M
+        width : 12%;^M
+        height: 14%;^M
+        background:transparent url("images/pince-fermer.png") no-repeat;^M
+}^M
+^M
+^M
+form input[type=submit]#LIGHT-ON {^M
+        color : #000;^M
+        padding:40px 20px 0px 0px;^M
+        margin:-230px 0px 50px 0px;^M
+        float:right;^M
+        border : none;^M
+        width : 12%;^M
+        height: 14%;^M
+        background:transparent url("images/torche-allumer.jpg") no-repeat;^M
+}^M
+^M
+^M
+form input[type=submit]#LIGHT-OFF {^M
+        color : #000;^M
+        padding:40px 20px 0px 0px;^M
+        margin:-100px 0px 50px 0px;^M
+        float:right;^M
+        border : none;^M
+        width : 12%;^M
+        height: 14%;^M
+        background:transparent url("images/torche-eteindre.jpg") no-repeat;^M
+}^M
+^M
+form input[type=submit]#STOP {^M
+        color : #000;^M
+        padding:0px 0px 0px 0px;^M
+        margin:0px 0% 0px 0px;^M
+        ^M
+        border : none;^M
+        width : 100%;^M
+        height: 100%;^M
+        background:transparent url("images/stop-button.png") no-repeat center center;^M
+}^M
+^M
+.main {^M
+        margin: 0px Auto;^M
+        width:640px;^M
+}^M
+/*form .outer-avancer:hover {^M
+        background:transparent url("images/boutons_hover.jpg") no-repeat top left;^M
+}^M
+form input[type=submit]:hover {^M
+        background:transparent url("images/boutons_hover.jpg") no-repeat top right;^M
+}*/^M
+
